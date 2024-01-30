@@ -34,7 +34,7 @@ function fetchImg(searchWord) {
       } else {
         iziToast.error({
           message:
-            'Sorry, there are no images matching your search query. Please try again!!!!',
+            'Sorry, there are no images matching your search query. Please try again!',
         });
       }
     })
